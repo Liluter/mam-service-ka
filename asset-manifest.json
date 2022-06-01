@@ -1,0 +1,43 @@
+{
+  "files": {
+    "main.css": "/mem-service-ka/static/css/main.ebc7da99.css",
+    "main.js": "/mem-service-ka/static/js/main.8a9ab0b0.js",
+    "static/js/787.0a071dc4.chunk.js": "/mem-service-ka/static/js/787.0a071dc4.chunk.js",
+    "static/media/medic.gif": "/mem-service-ka/static/media/medic.665626d2dfb66411e189.gif",
+    "static/media/newyear.jpg": "/mem-service-ka/static/media/newyear.b0763eab71c9e2cdfaff.jpg",
+    "static/media/macgyver.png": "/mem-service-ka/static/media/macgyver.27a2e90dc3015454f56d.png",
+    "static/media/morfeusz.png": "/mem-service-ka/static/media/morfeusz.aa14318631692aaf1c3f.png",
+    "static/media/child.webp": "/mem-service-ka/static/media/child.099d4af7635f2898ca09.webp",
+    "static/media/studia.jpg": "/mem-service-ka/static/media/studia.13ed37d9a617c8322ebf.jpg",
+    "static/media/goals.jpg": "/mem-service-ka/static/media/goals.be96273116cdc1adff4c.jpg",
+    "static/media/poke.webp": "/mem-service-ka/static/media/poke.f3ff899a91bbf66b2363.webp",
+    "static/media/variable.webp": "/mem-service-ka/static/media/variable.a781ba3c450e32ceb656.webp",
+    "static/media/zyrafa.jpg": "/mem-service-ka/static/media/zyrafa.d0eab133573f10650b64.jpg",
+    "static/media/memstime.jpg": "/mem-service-ka/static/media/memstime.646472ae769a6cdd7968.jpg",
+    "static/media/covid.jpg": "/mem-service-ka/static/media/covid.4c0aac1a2fbddd958ec8.jpg",
+    "static/media/backdev.webp": "/mem-service-ka/static/media/backdev.ded8f68be12412692486.webp",
+    "static/media/znak.jpg": "/mem-service-ka/static/media/znak.6c4d4407cfe9baab398d.jpg",
+    "static/media/chuck.jpg": "/mem-service-ka/static/media/chuck.e472941101421318255b.jpg",
+    "static/media/internet.jpg": "/mem-service-ka/static/media/internet.2102747d990c6406f4dc.jpg",
+    "static/media/dad.webp": "/mem-service-ka/static/media/dad.5da6af517a23c8648088.webp",
+    "static/media/wyklad.jpg": "/mem-service-ka/static/media/wyklad.5a623a3d365c8b5585ec.jpg",
+    "static/media/fullstack.webp": "/mem-service-ka/static/media/fullstack.30a831a8c2246cd08d83.webp",
+    "static/media/paczka.jpg": "/mem-service-ka/static/media/paczka.64c1f1930c76ce81d9ca.jpg",
+    "static/media/alice.webp": "/mem-service-ka/static/media/alice.1799cc6991bb6ec97226.webp",
+    "static/media/guns.jpg": "/mem-service-ka/static/media/guns.87f777db9145b14bf541.jpg",
+    "static/media/node.webp": "/mem-service-ka/static/media/node.ce37f0bd44aed8f5e9f9.webp",
+    "static/media/learn.webp": "/mem-service-ka/static/media/learn.a1f9a309fc452d9de90e.webp",
+    "static/media/language.webp": "/mem-service-ka/static/media/language.ac185391865a5f182838.webp",
+    "static/media/css-js.webp": "/mem-service-ka/static/media/css-js.ca1d1c07d25995620feb.webp",
+    "static/media/wash.webp": "/mem-service-ka/static/media/wash.9b6f2ef2024616eb3895.webp",
+    "static/media/frontend.webp": "/mem-service-ka/static/media/frontend.af90f717c72ca2136cf2.webp",
+    "index.html": "/mem-service-ka/index.html",
+    "main.ebc7da99.css.map": "/mem-service-ka/static/css/main.ebc7da99.css.map",
+    "main.8a9ab0b0.js.map": "/mem-service-ka/static/js/main.8a9ab0b0.js.map",
+    "787.0a071dc4.chunk.js.map": "/mem-service-ka/static/js/787.0a071dc4.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.ebc7da99.css",
+    "static/js/main.8a9ab0b0.js"
+  ]
+}
