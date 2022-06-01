@@ -13,7 +13,6 @@ function App() {
     <BrowserRouter>
     <div className="container">
           <Navigation/>
-
           <Routes>
             <Route exact path="/" element={<Main />} />
             <Route path="/hot" element={<Hot />} />

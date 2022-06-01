@@ -30,7 +30,7 @@ import zyrafa from '../../images/zyrafa.jpg'
 // tworzymy reducer
 const initialState = [
     {
-        title: "Mackgyver",
+        title: "Macgyver",
         upvotes: 0,
         downvotes: 0,
         img: logo,
