@@ -1,5 +1,5 @@
 # mem-service-ka
-Reackt Project
+React Project
 
 https://liluter.github.io/mem-service-ka/
 
